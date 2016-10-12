@@ -1,11 +1,12 @@
 Package: tufte
 Type: Package
 Title: Tufte's Styles for R Markdown Documents
-Version: 0.2.2
+Version: 0.2.4
 Date: 2016-02-07
 Authors@R: c(
     person("Yihui", "Xie", email = "xie@yihui.name", role = c("aut", "cre")),
     person("JJ", "Allaire", role = "aut"),
+    person("Dirk", "Eddelbuettel", role = "ctb"),
     person("Dave", "Liepmann", role = "ctb", comment = "Tufte CSS in inst/rmarkdown/templates/tufte_html/resources"),
     person(family = "RStudio, Inc.", role = "cph")
     )
